@@ -5,7 +5,7 @@ folium==0.7.0
 geographiclib==1.49
 geopy==1.18.1
 idna==2.8
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.0
 numpy==1.16.1
 pandas==0.24.1
